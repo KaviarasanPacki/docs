@@ -1,14 +1,14 @@
 {
   "$schema": "https://mintlify.com/schema.json",
-  "name": "callupgrade",
+  "name": "callupgrade.ai",
   "logo": {
     "dark": "https://app.callupgrade.ai/storage/210673/Logo-02.png",
     "light": "https://app.callupgrade.ai/storage/210673/Logo-02.png"
   },
   "favicon": "/favicon.png",
   "colors": {
-    "primary": "#6C429A",
-    "light": "#6C429A",
+    "primary": "#fc3e13",
+    "light": "#fc3e13",
     "dark": "#65fe50",
     "anchors": {
       "from": "#01df4a",
