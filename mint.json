@@ -2,8 +2,8 @@
   "$schema": "https://mintlify.com/schema.json",
   "name": "callupgrade",
   "logo": {
-    "dark": "https://app.callupgrade.ai/storage/60172/800X200.png",
-    "light": "https://app.callupgrade.ai/storage/60172/800X200.png"
+    "dark": "https://app.callupgrade.ai/storage/210673/Logo-02.png",
+    "light": "https://app.callupgrade.ai/storage/210673/Logo-02.png"
   },
   "favicon": "/favicon.png",
   "colors": {
@@ -24,16 +24,16 @@
   },
   "topbarLinks": [{
     "name": "Home",
-    "url": "https://42crm.io/"
+    "url": "https://callupgrade.ai"
   },
   
   {
     "name": "Support",
-    "url": "https://42crm.io/company/contactus/"
+    "url": "https://callupgrade.ai/contact-sales"
   }],
   "topbarCtaButton": {
     "name": "Dashboard",
-    "url": "https://42crm.io"
+    "url": "https://callupgrade.ai"
   },
   "anchors": [{
     "name": "No-Code Automation",
